@@ -1,8 +1,8 @@
 
 import './home.scss'
-import icon1 from '../image/icon1.png';
-import icon2 from '../image/icon2.png';
-import icon3 from '../image/icon3.png';
+import icon1 from "../image/icon1.png";
+import icon2 from "../image/icon2.png";
+import icon3 from "../image/icon3.png";
 
 import '../index.css'
 import WebSection from '../components/section/WebSection';
